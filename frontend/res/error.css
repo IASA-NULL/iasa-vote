@@ -1,0 +1,12 @@
+#main {
+    margin-left: 50vw;
+    margin-top: calc(50vh - 60px);
+    transform: translateX(-50%) translateY(-50%);
+    max-width: 400px;
+    background: #ffffffaa;
+}
+
+#cont {
+    padding: 20px;
+    margin-bottom: 180px;
+}
